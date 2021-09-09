@@ -9,3 +9,20 @@
     clear: both;
     content: "";
 }
+
+.art1, .art2, .art3{
+    width: 100%;
+    height: 100vh;
+}
+
+.art1{
+    background-color: red;
+}
+
+.art2{
+    background-color: green;
+}
+
+.art3{
+    background-color: yellow;
+}
